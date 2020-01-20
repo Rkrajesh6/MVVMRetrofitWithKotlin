@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMKotlinWithRetrofit</string>
+    <string name="showing_image_from_server_side">showing image from server side.</string>
+    <string name="empty_list">no Data found</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="rajesh_yadav">Rajesh yadav</string>
+</resources>
